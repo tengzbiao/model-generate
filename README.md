@@ -1,7 +1,6 @@
 ### gorm model生成工具
 
 - go get github.com/tengzbiao/model-generate
-- glide i (下载失败需要vpn)
 - cd $GOPATH/src/github.com/tengzbiao/model-generate;go build -o $GOPATH/bin/model-generate main.go
 
 ```
