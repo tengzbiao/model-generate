@@ -1,0 +1,6 @@
+package: model_generate
+import:
+- package: github.com/jinzhu/gorm
+  subpackages:
+  - dialects/mysql
+- package: github.com/jinzhu/inflection
